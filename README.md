@@ -1,4 +1,4 @@
-# Pong with Processing
+# 3D Shape Generator with Processing
 ## About the author
 Miguel Herrera Álvarez. Last-year Computer Engineering student in the University of Las Palmas de Gran Canaria.
 
